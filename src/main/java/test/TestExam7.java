@@ -19,11 +19,7 @@ public class TestExam7 {
             System.out.println("S1 and s3 not equal");
         }
 
-        private int x,y;
-        public TestExam7(int x, int y){
-            x=x;
 
-        }
     }
 
 }
